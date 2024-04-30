@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm passionate about cloud technologies and love e
 ### 🔭 I’m currently working on:
 - Deepening my understanding of AWS services
 <div align="center">
-  
-  ![download](https://github.com/Badal2456/Badal2456/assets/112490933/22471120-33f6-40cc-b161-87eabc0d4569)
 
 </div>
 
@@ -61,16 +59,11 @@ Welcome to my GitHub profile! I'm passionate about cloud technologies and love e
 - Tips for Azure certification exams
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile URL)
-- Email: [Your Email Address](mailto:your.email@example.com)
+<p><a href="https://github.com/Badal2456" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Bx1512" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/badal-tripathi-%E2%98%81%EF%B8%8F-a9813120a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
-### ⚡ Fun fact:
-I enjoy experimenting with new recipes in my free time, especially dishes from different cuisines around the world!
+------------
 
-<!-- GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUvY/giphy.gif" width="400" alt="Cool GIF">
-</div>
 
-Feel free to explore my repositories and connect with me! Let's build amazing things together in the cloud. 😊
+
 
